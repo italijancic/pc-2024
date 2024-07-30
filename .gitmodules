@@ -6,3 +6,5 @@
 	path = template
 	url = https://github.com/italijancic/pc-2024-template.git
 	branch = main
+[submodule]
+	recurse = true
