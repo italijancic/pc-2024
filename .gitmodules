@@ -4,6 +4,8 @@
 [submodule "lessons"]
 	path = lessons
 	url = https://github.com/italijancic/pc-2024-lessons.git
+	branch = main
 [submodule "template"]
 	path = template
 	url = https://github.com/italijancic/pc-2024-template.git
+	branch = main
