@@ -1,0 +1,9 @@
+[submodule "pc-2024-lessons"]
+	path = pc-2024-lessons
+	url = https://github.com/italijancic/pc-2024-lessons.git
+[submodule "lessons"]
+	path = lessons
+	url = https://github.com/italijancic/pc-2024-lessons.git
+[submodule "template"]
+	path = template
+	url = https://github.com/italijancic/pc-2024-template.git
